@@ -13,3 +13,8 @@
     align-items: center;
     border: solid 1px grey;
 }
+
+.camera1 {
+    color: red;
+    font-family: Verdana;
+}
