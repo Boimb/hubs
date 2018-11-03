@@ -15,6 +15,50 @@
 }
 
 .camera1 {
+    color: black;
+    font-family: "Segoe Script";
+}
+.camera2 {
+    color: black;
+    font-family: "Segoe Script";
+}
+.monBouton {
+    width:85px;
+    height:85px;
+    background:darkgrey;
+    font:bold 13px Arial;
+    border-radius:50%;
+    border:none;
+    color:#fff;
+    font-family: "Segoe Script";
+}
+body {
+    background-color: darkslategrey;
+}
+.camerasIndex {
+    width: 500px;
+    height:500px;
+    background:darkgrey;
+    font:bold 13px Arial;
+    border-radius:50%;
+    border:none;
+    color:#fff;
+    font-family: "Segoe Script";
+    font-size: 50px;
     color: red;
-    font-family: Verdana;
+}
+input[type="submit"]
+{
+    display: block;
+    margin: 0 auto;
+}
+p {
+    text-align: center;
+    color: red;
+    font-family: "Segoe Script";
+    font-size: 35px;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
 }
