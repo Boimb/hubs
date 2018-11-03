@@ -46,4 +46,9 @@
 body {
     background-color: dimgrey;
 }
-
+.para1 {
+    text-align: center;
+    text-size: 50px;
+    font-family: Segoe Script;
+    color: red;
+}
