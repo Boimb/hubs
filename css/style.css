@@ -15,23 +15,25 @@
 }
 
 .camera1 {
-    color: red;
+    color: black;
     font-family: Verdana;
 }
 .camera2 {
-    color: blue;
+    color: black;
     font-family: Tahoma;
 }
 .monBouton {
     width:85px;
     height:85px;
-    background:#cc0000;
+    background: darkslategrey;
     font:bold 13px Arial;
     border-radius:50%;
     border:none;
     color:#fff;
     text-align: center;
+    box-shadow: "10px 20px 30px blue";
 }
+
 .cam {
     width:500px;
     height:500px;
@@ -41,6 +43,7 @@
     border:none;
     color: blue;
 }
-
-
+body {
+    background-color: dimgrey;
+}
 
