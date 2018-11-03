@@ -15,6 +15,49 @@
 }
 
 .camera1 {
-    color: red;
+    color: black;
     font-family: Verdana;
+}
+.camera2 {
+    color: black;
+    font-family: Tahoma;
+}
+.monBouton {
+    width:85px;
+    height:85px;
+    background: darkslategrey;
+    font:bold 13px Arial;
+    border-radius:50%;
+    border:none;
+    color:#fff;
+}
+
+.cam {
+    width:500px;
+    height:500px;
+    background:#cc0000;
+    font:bold 13px Arial;
+    border-radius:50%;
+    border:none;
+    color: blue;
+    font-size: 100px;
+}
+body {
+    background-color: dimgrey;
+}
+.para1 {
+    text-align: center;
+    font-size: 35px;
+    font-family: Segoe Script;
+    color: red;
+}
+h1 {
+    font-size: 50px;
+    text-color: red;
+    font-family: "Segoe Script";
+    text-align: center;
+}
+input[type="submit"] {
+    display: block;
+    margin: 0 auto;
 }
