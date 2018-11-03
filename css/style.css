@@ -30,8 +30,6 @@
     border-radius:50%;
     border:none;
     color:#fff;
-    text-align: center;
-    box-shadow: "10px 20px 30px blue";
 }
 
 .cam {
@@ -42,13 +40,24 @@
     border-radius:50%;
     border:none;
     color: blue;
+    font-size: 100px;
 }
 body {
     background-color: dimgrey;
 }
 .para1 {
     text-align: center;
-    text-size: 50px;
+    font-size: 35px;
     font-family: Segoe Script;
     color: red;
+}
+h1 {
+    font-size: 50px;
+    text-color: red;
+    font-family: "Segoe Script";
+    text-align: center;
+}
+input[type="submit"] {
+    display: block;
+    margin: 0 auto;
 }
