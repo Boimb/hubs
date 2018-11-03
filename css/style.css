@@ -18,3 +18,29 @@
     color: red;
     font-family: Verdana;
 }
+.camera2 {
+    color: blue;
+    font-family: Tahoma;
+}
+.monBouton {
+    width:85px;
+    height:85px;
+    background:#cc0000;
+    font:bold 13px Arial;
+    border-radius:50%;
+    border:none;
+    color:#fff;
+    text-align: center;
+}
+.cam {
+    width:500px;
+    height:500px;
+    background:#cc0000;
+    font:bold 13px Arial;
+    border-radius:50%;
+    border:none;
+    color: blue;
+}
+
+
+
